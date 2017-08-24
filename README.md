@@ -1,5 +1,7 @@
 # stage1-xen - A Xen based stage1 for CoreOS rkt
 
+[![Build Status](https://circleci.com/gh/lambda-linux-fedora/stage1-xen/tree/wip1.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/lambda-linux-fedora/stage1-xen/tree/wip1)
+
 ## Goal
 
 CoreOS rkt is a modular container engine with [three stages of execution](https://coreos.com/rkt/docs/latest/devel/stage1-implementors-guide.html). Stage1 is responsible for creating the execution environment for the contained applications.
